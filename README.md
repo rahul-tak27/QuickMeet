@@ -89,4 +89,4 @@ The application ensures smooth navigation after a call ends:
 - **Add Meeting Access Control:** Introduce features like meeting passwords or host approval to control who can join a meeting, improving privacy and security.
 
 ## Deployment
-### Live Project Link: https://quickmeet-1-bwpx.onrender.com/
+### Live Project Link: https://quickmeet-1-bwpx.onrender.com
