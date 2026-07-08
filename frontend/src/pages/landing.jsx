@@ -78,7 +78,7 @@ export default function LandingPage() {
                 
             </div>
             <div className='commImg'> 
-                <img src="/communication.png"  alt="" />
+                <img src="/CommunicationNew.png"  alt="" />
             </div>
         </div>
 
