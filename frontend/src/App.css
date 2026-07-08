@@ -274,11 +274,11 @@
 .footer {
     width: 100%;
     text-align: center;
-    padding: 15px 0;
+    padding: 0px 0;
     color: #17354c;
     font-size: 14px;
     /* border-top: 0.1px solid #17354c; */
-    margin-top: 15px;
+    margin-top: 5px;
 }
 
  
@@ -307,7 +307,7 @@
     padding: 35px 28px;
     border-right: 1px solid #dbd9d9f5;
     transition: .3s;
-}
+}f
 
 .featureCard:last-child{
     border-right: none;
