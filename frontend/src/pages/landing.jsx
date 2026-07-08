@@ -58,13 +58,13 @@ export default function LandingPage() {
                     }} role='button'>
                     <p className='navLink login'>
                         <MdLogin  />
-                        Login
+                        Sign In
                     </p>
                 </div>
                 <p className='navLink register' onClick={() => {
                         router("/auth")
 
-                    }}>Register
+                    }}>Sign Up
                 </p>
             </div>
         </nav>
